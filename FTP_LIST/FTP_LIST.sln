@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FTP_LIST", "FTP_LIST\FTP_LIST.pyproj", "{19B140DE-38E5-45C5-9C2A-E3F385F4665A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19B140DE-38E5-45C5-9C2A-E3F385F4665A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B140DE-38E5-45C5-9C2A-E3F385F4665A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58324178-B633-41DE-8F5A-C99FC9F0AA3F}
+	EndGlobalSection
+EndGlobal
